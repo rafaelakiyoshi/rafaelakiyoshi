@@ -1,9 +1,13 @@
-<!-- ### Hi there 👋 -->
 
 <p align="center">
   <a href="https://new-portfolio-ruby-five.vercel.app/">
-    <img width="460" height="300" src="./assets/akiyoshi.svg">
+    <img width="120" src="./assets/akiyoshi.svg">
   </a>
+  <div align="center">
+    <font size="5">RAFAEL AKIYOSHI</font>
+    </br>
+    <font size="3">Software Engineer</font> 
+  </div>
 </p>
 
 <p align="center">
